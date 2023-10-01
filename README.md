@@ -3,8 +3,7 @@
 ### Olá, eu sou a Quezia Emilly! 🖐🏻
 
 ![Quezia GitHub stats](https://github-readme-stats.vercel.app/api?username=Quezia-Emilly&show_icons=true&theme=dracula)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quezia-Emilly&layout=compact)
 ## Tecnologias:
 
 <div style="display: inline_block"><br/>
